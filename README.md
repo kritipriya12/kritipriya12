@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kriti Priya</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+</div>
 <h3 align="center">A passionate Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritipriya12&label=Profile%20views&color=0e75b6&style=flat" alt="kritipriya12" /> </p>
